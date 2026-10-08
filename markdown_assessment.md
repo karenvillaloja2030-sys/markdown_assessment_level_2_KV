@@ -11,3 +11,15 @@ ___
 - * veggie tacos 
 - * *fresh* lemonade
 ___ 
+## How Our Ordering App Works
+Every order is added up by our ap. We use the `total` variable to keep track of the price:
+```
+let total = 0 ;
+total = total + 8 ;
+if ( total > 10) {
+    console.log("You get a free cookie!") ;
+} else {
+    console.log("Add $2 more for a free cookie!") ;
+}
+```
+___
