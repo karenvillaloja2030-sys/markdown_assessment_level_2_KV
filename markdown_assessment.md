@@ -1,5 +1,5 @@
 # Grand Opening: The Byte Bites Food Truck
-![Coffee_image](https://picsum.photos/id/431/600/300)
+### ![Coffee_image](https://picsum.photos/id/431/600/300)
 Welcome to **Byte Bites**, the first food truck run *entirely* by student coders! We serve fresh food in the morning and write code at night.
 ___
 ## Today's Menu
@@ -23,3 +23,11 @@ if ( total > 10) {
 }
 ```
 ___
+> ## What Customers Are Saying
+> "Best chopped cheese in East Harlem, and the **free** cookie deal is *genius*!"
+____
+## Find Us Online
+Follow our daily location on [Instagram](), or read our reviews on [Yelp]().
+Want to build an app like ours? Start learning here:
+- [freeCodeCamp]()
+- [MDN Web Docs]()
